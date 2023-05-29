@@ -1,4 +1,4 @@
-Your task for this assignment is to create a Hidden Markov Model (HMM) for POS tagging, including：
+The task for this assignment was to create a Hidden Markov Model (HMM) for POS tagging, including：
 
 - Training probability tables (i.e., initial, transition and emission) for HMM from training files containing text-tag pairs
 - Performing inference with your trained HMM to predict appropriate POS tags for untagged text. 
