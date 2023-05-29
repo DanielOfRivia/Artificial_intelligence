@@ -1,4 +1,4 @@
-In this assignment you will be creating a CSP solver for the domain of Battleship Solitaire puzzles. This will require you to encode these puzzles as a constraint satisfaction problem (CSP), implement the CSP solver, and use that to solve the puzzles we provide.
+In this assignment I created a CSP solver for the domain of Battleship Solitaire puzzles. I encoded these puzzles as a constraint satisfaction problem (CSP), implemented the CSP solver, and used that to solve the puzzles.
 
 There are 8 possible characters for this section of the input file:
 
